@@ -14,13 +14,6 @@ fi
 alias l="ls -lah --color=auto"
 alias v="vim"
 
-# auto/tab complete
-#autoload -U compinit
-#zstyle ':completion:*' menu select
-#zmodload zsh/complist
-#compinit
-#_comp_options+=(globdots)
-
 # Lines configured by zsh-newuser-install
 setopt autocd
 unsetopt beep
