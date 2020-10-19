@@ -49,7 +49,7 @@ nnoremap <leader>h :wincmd h<cr>
 nnoremap <leader>j :wincmd j<cr>
 nnoremap <leader>k :wincmd k<cr>
 nnoremap <leader>l :wincmd l<cr>
-nnoremap <leader>u :UndotreeShow<cr>
+nnoremap <leader>u :UndotreeToggle<cr>
 nnoremap <leader>pv :wincmd v<bar> :Ex <bar> :vertical resize 30<cr>
 
 let g:netrw_browse_split=2
