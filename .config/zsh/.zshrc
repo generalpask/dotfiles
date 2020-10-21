@@ -12,7 +12,7 @@ fi
 
 # aliases
 alias l="ls -lah --color=auto"
-alias v="vim"
+alias nv="nvim"
 
 # Lines configured by zsh-newuser-install
 setopt autocd
