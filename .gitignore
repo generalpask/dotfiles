@@ -1,3 +1,4 @@
 .config/zsh/.zcompdump
 .config/nvim/autoload/plugged/*
 .config/nvim/.netrwhist
+.config/tmux/plugins/*
