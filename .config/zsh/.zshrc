@@ -1,6 +1,6 @@
 # tmux
 if [[ -z "$TMUX" ]]; then
-    tmux -2 attach-session -t pask || tmux -2 new-session -s pask
+    tmux -2 attach-session -t pask || tmux -2 -f ~/.config/tmux/.tmux.conf new-session -s pask
 fi
 
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
