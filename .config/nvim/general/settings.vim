@@ -20,9 +20,6 @@ set incsearch
 set splitbelow
 set splitright
 
-" Remember folds
-augroup remember_folds
-    autocmd!
-    autocmd BufWinLeave * mkview
-    autocmd BufWinEnter * silent! loadview
-augroup END
+" Automatically save folds
+autocmd BufWinLeave *.* mkview!
+autocmd BufWinEnter *.* silent loadview
