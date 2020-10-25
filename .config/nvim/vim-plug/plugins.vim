@@ -14,6 +14,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     
     " Themes 
     Plug 'morhetz/gruvbox'
+    Plug 'xero/sourcerer.vim'
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
 
