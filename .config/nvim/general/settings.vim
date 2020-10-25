@@ -21,5 +21,5 @@ set splitbelow
 set splitright
 
 " Automatically save folds
-autocmd BufWinLeave *.* mkview!
-autocmd BufWinEnter *.* silent loadview
+"autocmd BufWinLeave ?* mkview!
+"autocmd BufWinEnter ?* silent loadview
