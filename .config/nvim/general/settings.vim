@@ -20,6 +20,8 @@ set incsearch
 set splitbelow
 set splitright
 
+set sessionoptions=blank,buffers,curdir,folds,tabpages
+
 " Automatically save folds
 "autocmd BufWinLeave ?* mkview!
 "autocmd BufWinEnter ?* silent loadview
