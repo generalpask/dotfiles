@@ -7,3 +7,4 @@ source $HOME/.config/nvim/themes/gruvbox.vim
 
 " Load plugin-specific config modules
 source $HOME/.config/nvim/plug-config/fzf.vim
+source $HOME/.config/nvim/plug-config/vimtex.vim
