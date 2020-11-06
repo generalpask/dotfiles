@@ -2,6 +2,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     
     " Utility
     Plug 'mbbill/undotree'
+    Plug 'preservim/nerdtree'
     Plug 'lervag/vimtex'
     
     " Fuzzy finding and completion
