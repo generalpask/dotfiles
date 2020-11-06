@@ -12,6 +12,7 @@ fi
 
 # aliases
 alias l="ls -lah --color=auto"
+alias bat="batcat"
 alias nv="nvim"
 
 # Lines configured by zsh-newuser-install
