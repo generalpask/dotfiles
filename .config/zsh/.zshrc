@@ -14,6 +14,7 @@ fi
 alias l="ls -lah --color=auto"
 alias bat="batcat"
 alias nv="nvim"
+alias tmux="tmux -2 -f ~/.config/tmux/.tmux.conf new-session -s pask"
 
 # Lines configured by zsh-newuser-install
 setopt autocd
