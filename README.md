@@ -1,6 +1,6 @@
 My configuration for:
 * zsh, [zinit](https://github.com/zdharma/zinit), [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-* tmux, [tpm](https://github.com/tmux-plugins/tpm)
+* tmux
 * vim (obsolete), [nvim](https://github.com/neovim/neovim)
 * git
 
