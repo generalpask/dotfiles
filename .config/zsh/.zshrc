@@ -1,8 +1,3 @@
-# tmux
-#if [[ -z "$TMUX" ]]; then
-#    tmux -2 attach-session -t pask || tmux -2 -f ~/.config/tmux/.tmux.conf new-session -s pask
-#fi
-
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
