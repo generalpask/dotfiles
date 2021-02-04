@@ -2,7 +2,6 @@
 .config/zsh/.zinit
 .config/nvim/autoload/plugged/*
 .config/nvim/.netrwhist
-.config/tmux/plugins/*
 .config/configstore/nodemon.json
 .config/configstore/update-notifier-nodemon.json
 .config/configstore/update-notifier-npm.json
