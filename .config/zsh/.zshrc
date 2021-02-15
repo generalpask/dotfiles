@@ -10,6 +10,10 @@ alias l="ls -lah --color=auto"
 alias bat="batcat"
 alias nv="nvim"
 alias tmux="tmux -f ~/.config/tmux/.tmux.conf"
+alias gs="git status"
+alias gd="git diff"
+alias gdc="git diff --cached"
+alias gl="git lg"
 
 # Lines configured by zsh-newuser-install
 setopt autocd
