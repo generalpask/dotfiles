@@ -1,7 +1,5 @@
 let mapleader = " "
 imap <C-Space> <Esc>
-nnoremap <leader>w :w<cr>
-nnoremap <leader>q :q<cr>
 nnoremap <leader>h :wincmd h<cr>
 nnoremap <leader>j :wincmd j<cr>
 nnoremap <leader>k :wincmd k<cr>
