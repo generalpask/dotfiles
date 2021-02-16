@@ -12,3 +12,4 @@ nnoremap <leader>pv :wincmd v<bar> :Ex <bar> :vertical resize 30<cr>
 
 nnoremap <leader>gd <Plug>(coc-definition)
 nnoremap <leader>gr <Plug>(coc-references)
+map <leader>gy :Goyo<CR>
