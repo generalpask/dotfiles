@@ -1,3 +1,5 @@
+let g:coc_global_extensions = ['coc-snippets', 'coc-emmet']
+
 inoremap <silent><expr> <TAB>
       \ pumvisible() ? coc#_select_confirm() :
       \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
