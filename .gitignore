@@ -5,9 +5,4 @@
 .config/configstore/nodemon.json
 .config/configstore/update-notifier-nodemon.json
 .config/configstore/update-notifier-npm.json
-.config/coc/extensions/node_modules/
-.config/coc/extensions/db.json
-.config/coc/list-extensions-history.json
-.config/coc/list-lists-history.json
-.config/coc/lists
-.config/coc/mru
+.config/coc/
