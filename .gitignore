@@ -6,3 +6,8 @@
 .config/configstore/update-notifier-nodemon.json
 .config/configstore/update-notifier-npm.json
 .config/coc/
+
+# Weechat
+.config/weechat/logs/
+.config/weechat/sec.conf
+.config/weechat/weechat_fifo

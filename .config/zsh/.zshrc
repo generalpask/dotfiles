@@ -9,6 +9,7 @@ fi
 alias l="ls -lah --color=auto"
 alias bat="batcat"
 alias nv="nvim"
+alias irssi="irssi --config=~/.config/irssi/customconfig --home=~/.config/irssi"
 alias tmux="tmux -f ~/.config/tmux/.tmux.conf"
 alias gs="git status"
 alias gd="git diff"
