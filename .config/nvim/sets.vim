@@ -4,7 +4,7 @@ set t_ut=              " Fix colorschemes inside tmux
 syntax enable
 set nocompatible
 set noerrorbells
-set noshowmode
+"set noshowmode
 set tabstop=4 softtabstop=4
 set shiftwidth=4
 set expandtab
