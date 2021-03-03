@@ -5,7 +5,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'preservim/nerdtree'
     Plug 'lervag/vimtex'
     Plug 'tpope/vim-commentary'
-    Plug 'junegunn/goyo.vim'
     
     " Fuzzy finding and completion
     Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
