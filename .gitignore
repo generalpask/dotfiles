@@ -8,6 +8,7 @@
 .config/coc/
 
 # Weechat
+.config/weechat/weechat.log
 .config/weechat/logs/
 .config/weechat/sec.conf
 .config/weechat/weechat_fifo
