@@ -1,2 +1,2 @@
-let g:vimtex_compiler_method = 'latexmk'
 let g:tex_flavor = 'latex'
+let g:vimtex_view_general_viewer = 'SumatraPDF'
