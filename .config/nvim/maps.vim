@@ -5,7 +5,7 @@ nnoremap <leader>j :wincmd j<cr>
 nnoremap <leader>k :wincmd k<cr>
 nnoremap <leader>l :wincmd l<cr>
 nnoremap <leader>u :UndotreeToggle<cr>
-nnoremap <C-n> :NERDTreeToggle<cr>
+nnoremap <leader>e :CocCommand explorer<CR>
 nnoremap <C-j> :GFiles<CR>
 nnoremap <C-k> :GFiles?<CR>
 nnoremap <leader>pv :wincmd v<bar> :Ex <bar> :vertical resize 30<cr>

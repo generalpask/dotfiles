@@ -1,4 +1,4 @@
-let g:coc_global_extensions = ['coc-snippets', 'coc-emmet']
+let g:coc_global_extensions = ['coc-snippets', 'coc-emmet', 'coc-explorer']
 
 inoremap <silent><expr> <TAB>
       \ pumvisible() ? coc#_select_confirm() :

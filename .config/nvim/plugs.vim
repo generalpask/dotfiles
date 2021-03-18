@@ -2,7 +2,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     
     " Utility
     Plug 'mbbill/undotree'
-    Plug 'preservim/nerdtree'
     Plug 'lervag/vimtex'
     Plug 'tpope/vim-commentary'
     
