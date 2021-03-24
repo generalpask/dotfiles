@@ -6,6 +6,7 @@
 .config/configstore/update-notifier-nodemon.json
 .config/configstore/update-notifier-npm.json
 .config/coc/
+.config/wslu
 
 # Weechat
 .config/weechat/weechat.log
